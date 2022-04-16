@@ -1,0 +1,100 @@
+table {
+  width: 100%;
+}
+
+.header {
+  font-weight: bold;
+  text-align: center;
+  width: 100%;
+}
+
+.tdheader {
+  width: 100px;
+  border-radius: 10px;
+  border: 1px solid black;
+  background-color: #FDE2E7;
+}
+
+.ins-header {
+  text-align: right;
+  font-size: 20px;
+  font-weight: 10000;
+  color: #EFD080;
+  font-family: Baskerville;
+}
+
+.left-bar {
+  text-align: center;
+  width: 15%;
+  height: 100vh;
+  vertical-align: top;
+}
+
+.tableleftbar {
+  border-spacing: 20px;
+  width: 250px;
+}
+
+.tdleftbar {
+  border-radius: 10px;
+  border: 1px solid black;
+  background-color: #EFD080;
+}
+
+.main {
+  text-align: center;
+  width: 70%;
+  height: 100vh;
+  vertical-align: top;
+}
+
+.name-main {
+  margin: 50px 50px 50px 50px;
+  border: 3px solid black;
+  background-color: #EFD080;
+  font-size: 30px;
+  font-family: Baskerville;
+}
+
+.ad-main {
+  font-size: 30px;
+  font-family: Baskerville;
+}
+
+.right-bar {
+  text-align: center;
+  width: 15%;
+  height: 100vh;
+  vertical-align: top;
+}
+
+.about {
+  font-size: 22px;
+  font-weight: bolder;
+}
+
+.tdrightbar {
+  font-size: 20px;
+  font-family: Baskerville;
+  background-color: #EFD080;
+  opacity: 0.7;
+}
+
+.footer {
+  text-align: center;
+  font-size: 20px;
+  font-family: Baskerville;
+  font-weight: bold;
+  vertical-align: top;
+}
+
+address {
+  font-family: Baskerville;
+  font-size: 20px;
+}
+
+body.figure {
+  background-image: url("../images/whiteshade.jpg");
+  background-repeat: no-repeat;
+  background-size: 100%;
+}
